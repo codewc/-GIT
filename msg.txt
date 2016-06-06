@@ -1,0 +1,63 @@
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿王春@PC-20160310DAOX MINGW64 ~
+$ git config --global user.name "wangchun"
+
+王春@PC-20160310DAOX MINGW64 ~
+$ git config --global user.email "1164004116@qq.com"
+
+###github
+username:codewc
+email:1164004116@qq.com
+password:agogo168
+
+https://github.com/codewc/-GIT.git
+
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿王春@PC-｜ MINGW64 ~
+$ git conf｜ig --global user.name "wangchun"
+
+王春@PC-2016｜0310DAOX MINGW64 ~
+$ git config --global user.email "1164004116@qq.com"
+
+###github｜
+username:co｜dewc
+email:1164004｜116@qq.com
+password:agogo1｜68
+
+https://github.co｜m/codewc/-GIT.git
+
+#!/usr/bin/python｜
+# -*- coding: utf-8｜ -*-
+
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿王春@PC-｜ MINGW64 ~
+$ git conf｜ig --global user.name "wangchun"
+
+王春@PC-2016｜0310DAOX MINGW64 ~
+$ git config --global user.email "1164004116@qq.com"
+
+###github｜
+username:co｜dewc
+email:1164004｜116@qq.com
+password:agogo1｜68
+
+https://github.co｜m/codewc/-GIT.git
+
+#!/usr/bin/python｜
+# -*- coding: utf-8｜ -*-
+
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿王春@PC-｜ MINGW64 ~
+$ git conf｜ig --global user.name "wangchun"
+
+王春@PC-2016｜0310DAOX MINGW64 ~
+$ git config --global user.email "1164004116@qq.com"
+
+###github｜
+username:co｜dewc
+email:1164004｜116@qq.com
+password:agogo1｜68
+
+https://github.co｜m/codewc/-GIT.git
+
+#!/usr/bin/python｜
+# -*- coding: utf-8｜ -*-
+
